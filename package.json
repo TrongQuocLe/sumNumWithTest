@@ -1,7 +1,8 @@
 {
   "name": "sumnumwithtest",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple function to sum array of integers with tests",
+  "main": "src/sumNumbers.js",
   "directories": {
     "test": "tests"
   },
@@ -9,9 +10,8 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "TrongQuocLe",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   }
